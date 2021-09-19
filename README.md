@@ -1,4 +1,4 @@
-**Paytm Java Clone**
+**Hospital Java Clone**
 
 Details of the Probelm Can be found at below link
 
